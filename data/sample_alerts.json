@@ -1,0 +1,34 @@
+[
+  {
+    "alert_type": "Heavy Rainfall",
+    "icon": "🌧️",
+    "severity": "High",
+    "condition": "Periods of intense rain are possible",
+    "action": "Avoid waterlogged routes and protect equipment",
+    "timestamp": "Today, 14:00"
+  },
+  {
+    "alert_type": "Thunderstorm",
+    "icon": "⛈️",
+    "severity": "Medium",
+    "condition": "Thunder and gusty winds may develop",
+    "action": "Stay indoors during lightning activity",
+    "timestamp": "Tomorrow, 16:30"
+  },
+  {
+    "alert_type": "Heatwave",
+    "icon": "🌡️",
+    "severity": "Medium",
+    "condition": "Above-normal afternoon temperatures",
+    "action": "Stay hydrated and limit midday exposure",
+    "timestamp": "Friday, 12:00"
+  },
+  {
+    "alert_type": "Flood Risk",
+    "icon": "🌊",
+    "severity": "High",
+    "condition": "Low-lying areas may experience water accumulation",
+    "action": "Follow local authority instructions",
+    "timestamp": "Advisory window: 24 hours"
+  }
+]
